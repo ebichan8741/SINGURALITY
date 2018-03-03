@@ -1,0 +1,36 @@
+/*---------------------------------------------------------------------------*
+  Project:  Host I/O Interface for HIO2/EUART
+  File:     Hio2IfErr.str
+
+  (C)2005 HUDSON SOFT
+
+  $Header: /home/cvsroot/SDK/build/demos/hio2demo/HioIf/include/Hio2IfErr.str,v 1.2 2006/03/09 12:28:43 yasuh-to Exp $
+
+  $NoKeywords: $
+ *---------------------------------------------------------------------------*/
+
+// error message strings
+
+// error
+"no error",
+"EXI device(%d) not find.",
+"EXI device(%d) is already opened.",
+"EXI device(%d) is not connected",
+"EXI device(%d) is write only",
+"EXI device(%d) is read only",
+"EXI device(%d) does not recive data",
+"EXI device(%d) can not send data",
+"EXI device(%d) busy",
+"Invalid ID",
+   
+// fatal error
+"HIO2EnumDevices() failed, error no(%d)",
+"HIO2Init() failed, error no(%d)",
+"HIO2Open() failed, EXI device(%d), error no(%d)",
+"HIO2Close() failed, EXI device(%d), error no(%d)",
+"HIO2Read() failed, EXI device(%d), error no(%d)",
+"HIO2Write() failed, EXI device(%d), error no(%d)",
+"HIO2ReadStatus() failed, EXI device(%d), error no(%d)",
+"DLL load error",
+
+// end of HioUsbIfErr.str

@@ -1,0 +1,24 @@
+﻿2017/03/06 17:10:15 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\work\vc++\multi\multi.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Debug\multi.unsuccessfulbuild" を作成しています。
+       ClCompile:
+         すべての出力が最新のものです。
+         すべての出力が最新のものです。
+       ResourceCompile:
+         すべての出力が最新のものです。
+       ManifestResourceCompile:
+         すべての出力が最新のものです。
+       Link:
+         すべての出力が最新のものです。
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\multi.exe.embed.manifest" /manifest Debug\multi.exe.intermediate.manifest "c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         すべての出力が最新のものです。
+       FinalizeBuildStatus:
+         ファイル "Debug\multi.unsuccessfulbuild" を削除しています。
+         "Debug\multi.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "C:\work\vc++\multi\multi.vcxproj" (build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:00.17
