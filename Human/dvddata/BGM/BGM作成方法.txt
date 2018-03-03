@@ -1,0 +1,7 @@
+①サウンドファイル「～.wav」用意
+②サウンド編集ソフト（Wavosaur等）で左右チャンネルに分離
+　「～_l.wav」「～_r.wav」
+③「dspadpcm.bat」を編集
+④「dspadpcm.bat」を実行
+⑤「～_l.dsp」「～_r.dsp」を「dvddata」フォルダへ移動
+⑥コード記述（main.cを参照）

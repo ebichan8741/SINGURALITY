@@ -1,0 +1,111 @@
+COMMENT **********************
+COMMENT SE_WINDOW
+COMMENT **********************
+
+BEGIN			SE_WINDOW
+	FILE		openwindow.wav
+	OUTPUT		ADPCM
+	MIX		COMBINE
+END
+
+COMMENT **********************
+COMMENT SE_MINE_EXPLOSION
+COMMENT **********************
+
+BEGIN			SE_MINE_EXPLOSION
+	FILE		mineExplosion.wav
+	OUTPUT		ADPCM
+	MIX		COMBINE
+END
+
+COMMENT **********************
+COMMENT SE_EARTHQUAKE
+COMMENT **********************
+
+BEGIN			SE_EARTHQUAKE
+	FILE		earthquake.wav
+	OUTPUT		ADPCM
+	MIX		COMBINE
+END
+
+COMMENT **********************
+COMMENT SE_COAEXPLOSION
+COMMENT **********************
+
+BEGIN			SE_COAEXPLOSION
+	FILE		coaExplosion.wav
+	OUTPUT		ADPCM
+	MIX		COMBINE
+END
+
+COMMENT **********************
+COMMENT SE_HUMAN_HIT
+COMMENT **********************
+
+BEGIN			SE_HUMAN_HIT
+	FILE		humanHit.wav
+	OUTPUT		ADPCM
+	MIX		COMBINE
+END
+
+COMMENT **********************
+COMMENT SE_HUMAN_BIKE_THUNDER
+COMMENT **********************
+
+BEGIN			SE_HUMAN_BIKE_THUNDER
+	FILE		humanBikeThunder.wav
+	OUTPUT		ADPCM
+	MIX		COMBINE
+END
+
+COMMENT **********************
+COMMENT SE_SUMMON
+COMMENT **********************
+
+BEGIN			SE_SUMMON
+	FILE		summon.wav
+	OUTPUT		ADPCM
+	MIX		COMBINE
+END
+
+COMMENT **********************
+COMMENT SE_ATTACK_SHOT
+COMMENT **********************
+
+BEGIN			SE_ATTACK_SHOT
+	FILE		shot.wav
+	OUTPUT		ADPCM
+	MIX		COMBINE
+END
+
+COMMENT **********************
+COMMENT SE_DEFENCE_GUARD
+COMMENT **********************
+
+BEGIN			SE_DEFENCE_GUARD
+	FILE		guard.wav
+	OUTPUT		ADPCM
+	MIX		COMBINE
+END
+
+COMMENT **********************
+COMMENT SE_SPEED_SHOT
+COMMENT **********************
+
+BEGIN			SE_SPEED_SHOT
+	FILE		speedshot.wav
+	OUTPUT		ADPCM
+	MIX		COMBINE
+END
+
+COMMENT **********************
+COMMENT SE_AI_LOCKON
+COMMENT **********************
+
+BEGIN			SE_AI_LOCKON
+	FILE		lockon.wav
+	OUTPUT		ADPCM
+	MIX		COMBINE
+END
+
+
