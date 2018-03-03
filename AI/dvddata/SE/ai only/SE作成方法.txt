@@ -1,0 +1,6 @@
+①サウンドファイル「～.wav」用意
+②「se.sds」編集
+③「soundconv.bat」実行
+④「se.spd」「se.spt」を「dvddata」フォルダへ移動
+⑤「se.h」をプロジェクトフォルダへ移動
+⑥コード記述（main.cを参照）

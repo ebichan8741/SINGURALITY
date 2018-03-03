@@ -1,0 +1,30 @@
+
+Header size: 96 bytes
+
+Sample     : 'tiutorialBGM_l.wav'
+Length     : 2756736 samples
+Num nibbles: 3150556 ADPCM nibbles
+Sample Rate: 44100 Hz
+Loop Flag  : NOT LOOPED
+
+Start Addr : 0x00000002 + ARAM_offset (ADPCM nibble mode)
+End Addr   : 0x003012DB + ARAM_offset (ADPCM nibble mode)
+Curr Addr  : 0x00000002 + ARAM_offset (ADPCM nibble mode)
+
+a1[0]: 0x02A0 a2[0]: 0xFDB8 
+a1[1]: 0x0A1B a2[1]: 0xFB49 
+a1[2]: 0x05DC a2[2]: 0xFF7B 
+a1[3]: 0x0A31 a2[3]: 0xFD37 
+a1[4]: 0x06E2 a2[4]: 0xFC0F 
+a1[5]: 0x0C52 a2[5]: 0xFA90 
+a1[6]: 0x074A a2[6]: 0xFFC7 
+a1[7]: 0x0C95 a2[7]: 0xFB3E 
+
+Gain      : 0x0000
+Pred/Scale: 0x0000
+y[n-1]    : 0x0000
+y[n-2]    : 0x0000
+
+Loop Pred/Scale: 0x0000
+Loop y[n-1]    : 0x0000
+Loop y[n-2]    : 0x0000
